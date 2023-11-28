@@ -70,5 +70,3 @@ const reviewSchema = new mongoose.Schema({
 
 const Review = mongoose.model('Review', reviewSchema);
 ```
-
-This is a basic schema design, and in a real-world scenario, you might need to add more details, handle authentication, implement authorization, and optimize for performance. Additionally, you might want to include schemas for delivery personnel, promotions, and more depending on the specific features of your food delivery platform. Always consider your application's requirements and adapt the schema accordingly.
