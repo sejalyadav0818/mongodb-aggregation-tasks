@@ -23,12 +23,7 @@
    - Integrate a `$match` stage in your pipeline to filter documents before aggregation.
    - Experiment with different filtering conditions based on your data.
 
-5. **Task: Date Aggregation**
-
-   - If your data includes date fields, create an aggregation pipeline that groups data by date and calculates aggregated metrics (e.g., daily sales).
-
-
-8. **Task: Multiple Aggregation Pipelines**
+5. **Task: Multiple Aggregation Pipelines**
 
    - Experiment with chaining multiple aggregation pipelines to perform complex data transformations.
 
